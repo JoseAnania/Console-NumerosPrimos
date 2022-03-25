@@ -1,0 +1,7 @@
+C:\Users\José\Desktop\Dev\C#\Consola\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe.config
+C:\Users\José\Desktop\Dev\C#\Consola\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe
+C:\Users\José\Desktop\Dev\C#\Consola\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.pdb
+C:\Users\José\Desktop\Dev\C#\Consola\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.csprojAssemblyReference.cache
+C:\Users\José\Desktop\Dev\C#\Consola\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\José\Desktop\Dev\C#\Consola\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.exe
+C:\Users\José\Desktop\Dev\C#\Consola\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.pdb
